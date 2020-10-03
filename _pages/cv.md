@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Materials Engineering, Zhengzhou University, 2010
+* M.S. in Materials Science, Jinan University, 2014
+* Ph.D in Engineering, Rochester Institute of Technology, 2020 (expected)
 
-Work experience
+Work experience(按照格式，自己填吧。在文件夹_pages 里cv.md里编辑你的cv信息）
 ======
 * Summer 2015: Research Assistant
   * Github University

@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. Candidate in the Department of Mechanical Engineering at Rochester Institute of Technology, advised by Prof. [XXXX NAME (放地址https://github.com/staeiou/staeiou.github.io).
+I am a Ph.D. Candidate in the Department of Mechanical Engineering at Rochester Institute of Technology, advised by Prof. [XXXX NAME](放地址https://github.com/staeiou/staeiou.github.io).
 
 安装下面的内容编辑你的内容。
 

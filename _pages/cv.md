@@ -1,6 +1,6 @@
 ---
-layout: archive
-title: "CV"
+<!-- layout: archive -->
+title: "Hong Guo (郭红)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.E. in Materials Engineering, Zhengzhou University, 2010
-* M.S. in Materials Science, Jinan University, 2014
-* Ph.D in Engineering, Rochester Institute of Technology, 2020 (expected)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://lantaoyu.github.io/files/HongGuo_CV.pdf)
 
-Work experience(按照格式，自己填吧。在文件夹_pages 里cv.md里编辑你的cv信息）
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+<!-- <embed src="https://hongguo001.github.io/HongGuo.github.io/files/cv/HongGuo_CV.pdf" width="650" height="1800" type='application/pdf'> -->
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+

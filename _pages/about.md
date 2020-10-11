@@ -13,7 +13,7 @@ I am a Ph.D. Candidate in the [Kate Gleason College of Engineering](https://www.
 * I received my Msater's degree in Jinan Univerisity. My graduate research advisors are Prof. Wei Li and Prof. Ying Liu
 * I received my Bachelor’s Degree in Zhengzhou University.
 # Google Scholar
-[[Goggle scholar]](https://scholar.google.com/citations?user=g2iYtN8AAAAJ&hl=en)]
+[[Goggle scholar](https://scholar.google.com/citations?user=g2iYtN8AAAAJ&hl=en)]
 
 
 

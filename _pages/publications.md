@@ -17,13 +17,36 @@ author_profile: true
 <b>Hong Guo</b>, Fanghua Chen, Rui Liu, Patricia Iglesias<br>
 <i>Tribology Transactions</i> <b>2020</b>.
 
-<b>[Tribological Properties of Ammonium Protic Ionic Liquids As Additives in Polyalphaolefin for Steel-Steel Contactl Information Bottleneck](https://hongguo001.github.io/HongGuo.github.io/publications/T3)</b> <br> 
+<b>[Tribological Properties of Ammonium Protic Ionic Liquids As Additives in Polyalphaolefin for Steel-Steel Contactl Information Bottleneck](https://hongguo001.github.io/HongGuo.github.io/publications/T4)</b> <br> 
 <b>Hong Guo</b>, Patricia Iglesias<br>
-<i>ASME International Mechanical Engineering Congress and Exposition</i> <b>ASME 2020</b>.
+<i>ASME International Mechanical Engineering Congress and Exposition</i> <b>ASME 2019</b>.
 
+<b>[Ionic Liquid As Cutting Fluid Additive Using Minimum Quantity Lubricant (MQL) in Titanium-Ceramic Contact](http://hongguo001.github.io/HongGuo.github.io/publications/T5)</b> <br> 
+Sameer A. Magar, <b>Hong Guo</b>, Patricia Iglesias<br>
+<i>ASME International Mechanical Engineering Congress and Exposition</i> <b>2019</b> 
 
+<b>[Effect of ionicity of three protic ionic liquids as neat lubricants and lubricant additives to a biolubricant](http://hongguo001.github.io/HongGuo.github.io/publications/T6)</b> <br> 
+<b>Hong Guo</b>, Angela Rina Adukure, Patricia Iglesias<br>
+<i>Coatings</i> <b>2019</b> 
 
+<b>[Estimation of Energy Conservation in Internal Combustion Engine Vehicles Using Ionic Liquid As an Additive](http://hongguo001.github.io/HongGuo.github.io/publications/T7)</b> <br> 
+Sameer Magar, <b>Hong Guo</b>, Patricia Iglesias<br>
+<i>ASME International Mechanical Engineering Congress and Exposition</i> <b>2018</b> 
 
+<b>[The Effects of Single-Walled Carbon Nanotubes and Ionic Liquids in Reduction of Friction and Wear](http://hongguo001.github.io/HongGuo.github.io/publications/T8)</b> <br> 
+<b>Hong Guo</b>, Steven Keil, John Ackerman, Ivan Puchades, Brian Landi, Patricia Iglesias<br>
+<i>ASME International Mechanical Engineering Congress and Exposition</i> <b>2018</b> 
 
+<b>[Study of the lubricating ability of Protic ionic liquid on an aluminum–steel contact](http://hongguo001.github.io/HongGuo.github.io/publications/T9)</b> <br> 
+Akshar Patel, <b>Hong Guo</b>, Patricia Iglesias<br>
+<i>Lubricants</i> <b>2018</b> 
+
+<b>[Effect of cation nature on the lubricating and physicochemical properties of three ionic liquids](http://hongguo001.github.io/HongGuo.github.io/publications/T10)</b> <br> 
+Leah Matczak, Cammie Johanning, Emmanuel Gil, <b>Hong Guo</b>, Thomas W Smith, Michael Schertzer, P Iglesias<br>
+<i>Tribology International</i> <b>2018</b> 
+
+<b>[Friction and Wear Properties of Halogen-Free and Halogen-Containing Ionic Liquids Used As Neat Lubricants, Lubricant Additives and Thin Lubricant Layers](http://hongguo001.github.io/HongGuo.github.io/publications/T11)</b> <br> 
+<b>Hong Guo</b>, Rui Liu, Alfonso Fuentes-Aznar, Patricia Iglesias Victoria<br>
+<i>International Design Engineering Technical Conferences and Computers and Information in Engineering Conference</i> <b>2017</b> 
 
 [\* denotes equal contribution]

@@ -5,7 +5,7 @@ author_profile: true
 ---
 <br>
 
-<b>[Tribological behavior of ammonium-based protic ionic liquid as lubricant additive](http://hongguo001.github.io/HongGuo.github.io/publictions/T1)</b> <br> 
+<b>[Tribological behavior of ammonium-based protic ionic liquid as lubricant additive](http://hongguo001.github.io/HongGuo.github.io/publications/T1)</b> <br> 
 <b>Hong Guo</b>, Patricia Iglesias<br>
 <i>Friction</i> <b>2020</b> 
 

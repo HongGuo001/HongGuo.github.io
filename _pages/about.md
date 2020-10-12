@@ -28,7 +28,11 @@ I am a Ph.D. Candidate in the [Kate Gleason College of Engineering](https://www.
 * Septeber 2020, one paper is accepted by Tribology Letters.
 * October 2020, one paper is accepted by Journal of Molecular Liquids.
 * Congratulations! My two students will give presentations at the 2020 STLE Tribology Frontiers Virtual Conference on Nov.9-13. 
+* 
 
 # Academic Services
+* June 2020, <b>Ionic liquids: Advanced Lubricants and Lubricants Additives </b> is published on Magzine: <i>The Rochester Engineer</i> 
+* Journal reviewer: Tribology Interational; Bulletin of the Korean Chemical Society  
+* Coference reviewer: ASME-IMECE 2019
 
 

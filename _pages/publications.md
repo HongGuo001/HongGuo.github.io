@@ -9,7 +9,7 @@ author_profile: true
 <b>Hong Guo</b>, Patricia Iglesias<br>
 <i>Friction</i> <b>2020</b> 
 
-<b>[The study of hexanoate-based protic ionic liquids used as lubricants in steel-steel contact](https://hongguo001.github.io/HongGuo.github.io/publications/T2)</b> <br>  
+<b>[The study of hexanoate-based protic ionic liquids used as lubricants in steel-steel contact](https://hongguo001.github.io/HongGuo.github.io/publications/T2)</b><br> 
 <b>Hong Guo</b>, Thomas W Smith, Patricia Iglesias<br>
 <i>Journal of Molecular Liquids</i> <b>2020</b>
 

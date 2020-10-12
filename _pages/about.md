@@ -25,9 +25,9 @@ I am a Ph.D. Candidate in the [Kate Gleason College of Engineering](https://www.
 
 
 # Recent News
-* Septeber 2020, one paper is accepted by Tribological Letters.
+* Septeber 2020, one paper is accepted by Tribology Letters.
 * October 2020, one paper is accepted by Journal of Molecular Liquids.
-* Congratulations! My two students will give presentations at the conference of STLE tribology. 
+* Congratulations! My two students will give presentations at the 2020 STLE Tribology Frontiers Virtual Conference on Nov.9-13. 
 
 # Academic Services
 

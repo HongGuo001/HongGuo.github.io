@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="http://hongguo001.github.io/HongGuo.github.io/images/HG.JPG" alt="Photo" style="length: 300px;"/> 
+  <img src="http://hongguo001.github.io/HongGuo.github.io/images/HG.JPG" alt="Photo" style="width: 500px;"/> 
 </p>
 
 # About me

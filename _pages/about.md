@@ -14,7 +14,7 @@ redirect_from:
 
 # About me
 I am a Ph.D. Candidate in the [Kate Gleason College of Engineering](https://www.rit.edu/engineering/) at [Rochester Institute of Technology](https://www.rit.edu/), advised by Prof. [Patricia Iglesias](https://www.rit.edu/directory/pxieme-patricia-iglesias-victoria).
-* My research interests lie in Boundary lubrication, Ionic liquid, Nanoscale additives, Friction and Wear , Textured Surface Technology and Surface Interaction 
+* My research interests lie in tribology and boundary lubrication, lubricants & lubricant additives synthesis and characterization, materials science, surface and interface science and technology.
 * I received my Msater's degree in Jinan Univerisity. My graduate research advisors are Prof. Wei Li and Prof. Ying Liu
 * I received my Bachelor’s Degree in Zhengzhou University.
 
@@ -22,8 +22,8 @@ I am a Ph.D. Candidate in the [Kate Gleason College of Engineering](https://www.
 [Goggle scholar](https://scholar.google.com/citations?user=g2iYtN8AAAAJ&hl=en)
 
 # Recent News
-* Septeber 2020, one paper is accepted by Tribology Letters.
-* October 2020, one paper is accepted by Journal of Molecular Liquids.
+* October 2020, one paper is published in Tribology Letters.
+* October 2020, one paper is published in Journal of Molecular Liquids.
 * Congratulations! My two students will give presentations at the 2020 STLE Tribology Frontiers Virtual Conference on Nov.9-13. 
 
 # Academic Services

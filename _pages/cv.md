@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](http://hongguo001.github.io/HongGuo.github.io/files/HongGuo_CV.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://hongguo001.github.io/HongGuo.github.io/files/HongGuo_CV2.pdf)
 
 <!-- <embed src="https://hongguo001.github.io/HongGuo.github.io/files/cv/HongGuo_CV.pdf" width="650" height="1800" type='application/pdf'> -->
 

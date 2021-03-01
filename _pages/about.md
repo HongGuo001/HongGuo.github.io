@@ -22,9 +22,8 @@ I am a Ph.D. Candidate in the [Kate Gleason College of Engineering](https://www.
 [Goggle scholar](https://scholar.google.com/citations?user=g2iYtN8AAAAJ&hl=en)
 
 # Recent News
-* October 2020, one paper is published in Tribology Letters.
-* October 2020, one paper is published in Journal of Molecular Liquids.
 * Congratulations! My two students will give presentations at the 2020 STLE Tribology Frontiers Virtual Conference on Nov.9-13. 
+* My first book chapter on <b> Ionic liquids as high-performance lubricants and lubricant additives to Ionic Liquids </b> has been accepted by <i>Ionic liquid</i>
 
 # Academic Services
 * June 2020, <b>Ionic liquids: Advanced Lubricants and Lubricants Additives </b> is published on Magazine: <i>The Rochester Engineer</i> 

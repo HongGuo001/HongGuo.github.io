@@ -5,7 +5,7 @@ author_profile: true
 ---
 <br>
 
-<b>[Miscibility, corrosion and environmental properties of six hexanoate- and sulfonate-based protic ionic liquids] (http://hongguo001.github.io/HongGuo.github.io/publications/T1)</b> <br> 
+<b>[Miscibility, corrosion and environmental properties of six hexanoate- and sulfonate-based protic ionic liquids](http://hongguo001.github.io/HongGuo.github.io/publications/T1)</b> <br> 
 Jose Luis Viesca, P Oulego, R González, <b>Hong Guo</b>, A Hernández Battez, Patricia Iglesias<br>
 <i>Journal of Molecular Liquids</i> <b>2021</b> 
 
